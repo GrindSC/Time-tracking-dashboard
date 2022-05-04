@@ -15,7 +15,7 @@ timeMenu.forEach((element) => {
 
 //Get JSON Data
 let data = {};
-fetch("/app/js/data.json")
+fetch("/Time-tracking-dashboard/app/js/data.json")
   .then((resp) => resp.json())
   .then((jsonData) => {
     jsonData.forEach((element) => {
