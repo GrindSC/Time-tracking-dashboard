@@ -210,32 +210,32 @@ body {
 
 .container .work {
   background-color: #ff8c66;
-  background-image: url(/images/icon-work.svg);
+  background-image: url(/Time-tracking-dashboard/images/icon-work.svg);
 }
 
 .container .play {
   background-color: #56c2e6;
-  background-image: url(/images/icon-play.svg);
+  background-image: url(/Time-tracking-dashboard/images/icon-play.svg);
 }
 
 .container .study {
   background-color: #ff5c7c;
-  background-image: url(/images/icon-study.svg);
+  background-image: url(/Time-tracking-dashboard/images/icon-study.svg);
 }
 
 .container .exercise {
   background-color: #4acf81;
-  background-image: url(/images/icon-exercise.svg);
+  background-image: url(/Time-tracking-dashboard/images/icon-exercise.svg);
 }
 
 .container .social {
   background-color: #7536d3;
-  background-image: url(/images/icon-social.svg);
+  background-image: url(/Time-tracking-dashboard/images/icon-social.svg);
 }
 
 .container .self-care {
   background-color: #f1c65b;
-  background-image: url(/images/icon-self-care.svg);
+  background-image: url(/Time-tracking-dashboard/images/icon-self-care.svg);
 }
 
 .attribution {
